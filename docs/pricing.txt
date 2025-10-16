@@ -1,0 +1,5 @@
+NovaTech offers three plans:
+1. Basic - $20/month
+2. Pro - $50/month
+3. Enterprise - custom pricing for large teams.
+All plans include 24/7 support and free updates.

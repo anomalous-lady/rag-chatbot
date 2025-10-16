@@ -1,0 +1,3 @@
+Our main product is a chatbot platform that helps businesses automate support.
+Features include sentiment analysis, context memory, and integration with WhatsApp and Slack.
+The chatbot learns from conversation logs and improves over time.
