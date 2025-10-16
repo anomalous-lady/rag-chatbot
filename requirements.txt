@@ -1,6 +1,7 @@
 streamlit
 openai
-langchain
 python-dotenv
+scikit-learn
+pandas
 faiss-cpu
 tiktoken
